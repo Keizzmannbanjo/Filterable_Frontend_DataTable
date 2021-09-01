@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.container-width {
+    width: 80%;
+    margin: auto;
+}
+
+.data_table {
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+.fa-check {
+    color: green;
+}
+
+.form-flex {
+    display: flex;
+}
+
+.form-group {
+    margin-right: 1rem;
+}
+
+.btn-block {
+    width: 30%;
+}
